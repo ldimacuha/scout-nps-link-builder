@@ -1,0 +1,26 @@
+nav.navbar-custom {
+    background-color: #084d6d;
+}
+
+nav.navbar-custom a {
+    color: #ffffff;
+}
+
+.outline-teal {
+    background-color: none;
+    border: 1px solid #5bc4bf;
+}
+
+.filled-teal {
+    background-color: #5bc4bf;
+    color: #ffffff;
+}
+
+.outline-blue {
+    background-color: none;
+    border: 1px solid #084d6d;
+}
+
+.filled-blue {
+    background-color: #084d6d;
+}
