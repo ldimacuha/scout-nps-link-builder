@@ -9,7 +9,7 @@ $ git clone git@github.com:ldimacuha/scout-nps-link-builder.git
 ```
 - Install the dependencies.
 ```sh
-$ cd iframe-code-builder
+$ cd nps-link
 $ npm install
 ```
 - Run the app.
