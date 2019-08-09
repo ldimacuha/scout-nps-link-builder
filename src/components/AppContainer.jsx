@@ -8,11 +8,11 @@ class AppContainer extends React.Component {
     render() {
         const staffList = [
             'Keeano Canzon',
-            'Venessa Kohl',
             'Alex Hood',
             'Zacc Thomas',
-            'Peter Bainard',
-            'Mark Davey'
+            'Mark Davey',
+            'Chau Le',
+            'Fraser Robertson',
         ];
 
         const serviceTypeList = [
