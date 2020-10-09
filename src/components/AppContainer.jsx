@@ -13,6 +13,7 @@ class AppContainer extends React.Component {
             'Mark Davey',
             'Chau Le',
             'Fraser Robertson',
+            'Jennifer Fleay',
         ];
 
         const serviceTypeList = [
