@@ -7,13 +7,10 @@ import Footer from './footer/Footer';
 class AppContainer extends React.Component {
     render() {
         const staffList = [
-            'Keeano Canzon',
-            'Alex Hood',
-            'Zacc Thomas',
-            'Mark Davey',
             'Chau Le',
-            'Fraser Robertson',
             'Jennifer Fleay',
+            'Holly Clark',
+            'Alexa Littleton'
         ];
 
         const serviceTypeList = [
