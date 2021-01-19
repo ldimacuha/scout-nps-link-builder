@@ -7,10 +7,11 @@ import Footer from './footer/Footer';
 class AppContainer extends React.Component {
     render() {
         const staffList = [
+            'Alexa Littleton',
             'Chau Le',
-            'Jennifer Fleay',
             'Holly Clark',
-            'Alexa Littleton'
+            'Jane Begley',
+            'Jennifer Fleay',
         ];
 
         const serviceTypeList = [
