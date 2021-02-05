@@ -10,6 +10,7 @@ class AppContainer extends React.Component {
             'Alexa Littleton',
             'Chau Le',
             'Holly Clark',
+            'Holly Itzstein',
             'Jane Begley',
             'Jennifer Fleay',
         ];
